@@ -2,7 +2,7 @@
     "name": "io.extendreality.tilia.locomotors.teleporttargets.unity",
     "displayName": "Tilia Locomotors TeleportTargets Unity",
     "description": "A collection of prefabs that provide a specific point or area location to specify a valid teleport location for the Unity software.",
-    "version": "1.0.38",
+    "version": "1.0.39",
     "unity": "2018.3",
     "unityRelease": "10f1",
     "keywords": [
