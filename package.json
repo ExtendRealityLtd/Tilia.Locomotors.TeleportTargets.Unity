@@ -38,6 +38,8 @@
         "*.asmdef",
         "*.xml",
         "Documentation",
-        "Runtime"
+        "Editor",
+        "Runtime",
+        "docfx.json"
     ]
 }
