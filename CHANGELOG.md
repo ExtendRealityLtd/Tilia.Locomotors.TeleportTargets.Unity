@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v1.0.41...v1.1.0) (2021-04-07)
+
+#### Features
+
+* **Utility:** add prefab creator ([d5392aa](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/commit/d5392aa83fcafa0b75314b6d2549c96d644b059d))
+  > The latest version of Zinnia has the basis of a prefab creator that can be used to enable easy adding of prefabs to a scene without needing to drag and drop from directories. Instead a new menu item is added for quickly adding prefabs. The guide has been updated to accommodate this and the FodyWeavers.xml is now located in the root to serve both the Runtime and Editor scripts.
+
+#### Bug Fixes
+
+* **package.json:** add missing reference to Editor directory ([719fa70](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/commit/719fa70b5d143a9c2cd1898c7f9fe8eb74cc3e9c))
+  > The build will fail without referencing this new Editor directory so it has now been added to the package.
+
 ### [1.0.41](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v1.0.40...v1.0.41) (2021-03-29)
 
 #### Miscellaneous Chores
