@@ -1,5 +1,14 @@
 # Changelog
 
+### [1.1.8](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v1.1.7...v1.1.8) (2021-06-10)
+
+#### Miscellaneous Chores
+
+* **deps:** bump io.extendreality.tilia.indicators.spatialtargets.unity ([4101ca0](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/commit/4101ca098ab3bbd4565e2a1582d2aace7d36e8ee))
+  > Bumps [io.extendreality.tilia.indicators.spatialtargets.unity](https://github.com/ExtendRealityLtd/Tilia.Indicators.SpatialTargets.Unity) from 1.7.4 to 1.7.5. - [Release notes](https://github.com/ExtendRealityLtd/Tilia.Indicators.SpatialTargets.Unity/releases) - [Changelog](https://github.com/ExtendRealityLtd/Tilia.Indicators.SpatialTargets.Unity/blob/master/CHANGELOG.md) - [Commits](https://github.com/ExtendRealityLtd/Tilia.Indicators.SpatialTargets.Unity/compare/v1.7.4...v1.7.5)
+* **README.md:** update title logo to related-media repo ([fddefcf](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/commit/fddefcf4f2c4267e0fcc50d6185a5137451aa271))
+  > The title logo is now located on the related-media repo.
+
 ### [1.1.7](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v1.1.6...v1.1.7) (2021-05-09)
 
 #### Miscellaneous Chores
