@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.20](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v1.1.19...v1.1.20) (2022-01-12)
+
+#### Miscellaneous Chores
+
+* **deps:** bump io.extendreality.tilia.indicators.spatialtargets.unity ([1cb869e](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/commit/1cb869ef9d4e8ac014e4298ba23a5e8e6a84f862))
+  > Bumps [io.extendreality.tilia.indicators.spatialtargets.unity](https://github.com/ExtendRealityLtd/Tilia.Indicators.SpatialTargets.Unity) from 1.7.21 to 1.7.22. - [Release notes](https://github.com/ExtendRealityLtd/Tilia.Indicators.SpatialTargets.Unity/releases) - [Changelog](https://github.com/ExtendRealityLtd/Tilia.Indicators.SpatialTargets.Unity/blob/master/CHANGELOG.md) - [Commits](https://github.com/ExtendRealityLtd/Tilia.Indicators.SpatialTargets.Unity/compare/v1.7.21...v1.7.22)
+
 ### [1.1.19](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v1.1.18...v1.1.19) (2022-01-12)
 
 #### Miscellaneous Chores
