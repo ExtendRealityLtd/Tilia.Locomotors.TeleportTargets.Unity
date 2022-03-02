@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v1.1.30...v1.2.0) (2022-03-02)
+
+#### Features
+
+* **package.json:** add information urls to package ([8d1e92a](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/commit/8d1e92a59d94abe2721fec616012a1d61d7ab481))
+  > The changelog, documentation and license url has been added to the package.json as these are used within the Unity package manager.
+
 ### [1.1.30](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v1.1.29...v1.1.30) (2022-02-14)
 
 #### Miscellaneous Chores
