@@ -1,5 +1,14 @@
 # Changelog
 
+### [1.2.4](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v1.2.3...v1.2.4) (2022-03-15)
+
+#### Miscellaneous Chores
+
+* **dependabot:** remove bddckr from reviewers ([40b7cb8](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/commit/40b7cb80080ce644f29bafb643da29e94a2c2e49))
+  > Chris hasn't been actively part of the project for a while.
+* **deps:** bump io.extendreality.tilia.indicators.spatialtargets.unity ([51c2d6f](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/commit/51c2d6ff9ed2d6783eff396c64449ad137ca8d47))
+  > Bumps [io.extendreality.tilia.indicators.spatialtargets.unity](https://github.com/ExtendRealityLtd/Tilia.Indicators.SpatialTargets.Unity) from 1.8.2 to 1.8.3. - [Release notes](https://github.com/ExtendRealityLtd/Tilia.Indicators.SpatialTargets.Unity/releases) - [Changelog](https://github.com/ExtendRealityLtd/Tilia.Indicators.SpatialTargets.Unity/blob/master/CHANGELOG.md) - [Commits](https://github.com/ExtendRealityLtd/Tilia.Indicators.SpatialTargets.Unity/compare/v1.8.2...v1.8.3)
+
 ### [1.2.3](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v1.2.2...v1.2.3) (2022-03-15)
 
 #### Miscellaneous Chores
