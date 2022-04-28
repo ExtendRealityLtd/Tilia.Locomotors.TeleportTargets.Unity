@@ -33,7 +33,7 @@
         "url": "https://github.com/ExtendRealityLtd"
     },
     "dependencies": {
-        "io.extendreality.tilia.indicators.spatialtargets.unity": "2.0.1"
+        "io.extendreality.tilia.indicators.spatialtargets.unity": "2.0.2"
     },
     "files": [
         "*.md",
