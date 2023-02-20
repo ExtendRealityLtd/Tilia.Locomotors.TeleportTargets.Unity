@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.13](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v2.0.12...v2.0.13) (2023-02-20)
+
+#### Bug Fixes
+
+* **Materials:** actually update shader to mobile shader ([d217f0d](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/commit/d217f0da26a10f8f90720006da95d967d67b7558))
+  > The previous fix didn't seem to actually update the shader to the mobile one. This one should.
+
 ### [2.0.12](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v2.0.11...v2.0.12) (2023-02-20)
 
 #### Bug Fixes
