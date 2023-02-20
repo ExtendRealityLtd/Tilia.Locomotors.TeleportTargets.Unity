@@ -1,5 +1,14 @@
 # Changelog
 
+### [2.0.12](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v2.0.11...v2.0.12) (2023-02-20)
+
+#### Bug Fixes
+
+* **Materials:** switch to mobile particle shader ([cedb18a](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/commit/cedb18a7f61054448f728ec8e0ff140c0335bb34))
+  > There is an issue with certain headsets like the quest using the Oculus Integration CameraRig where the standard particle shader does not render correctly, causing the rest of the screen to render black.
+  > 
+  > This just switches the default particle shader to the mobile shader. It doesn't look as good, but its hardly noticable and will fix this issue for anyone else and anyone who wants the better looking shader can just provide custom materials.
+
 ### [2.0.11](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v2.0.10...v2.0.11) (2023-02-19)
 
 #### Miscellaneous Chores
