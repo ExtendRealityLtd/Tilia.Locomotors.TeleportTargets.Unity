@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.14](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v2.0.13...v2.0.14) (2023-02-21)
+
+#### Bug Fixes
+
+* **package.json:** add missing dependency ([a7b9a74](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/commit/a7b9a746b5fb5b5830db9fcfd47517e0759bca3e))
+  > The Zinnia dependency was not listed but still worked because the spatial targets dependency was including it but really all dependencies should be listed to make it clear what is being depended on.
+
 ### [2.0.13](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v2.0.12...v2.0.13) (2023-02-20)
 
 #### Bug Fixes
