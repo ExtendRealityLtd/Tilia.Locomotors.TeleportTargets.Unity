@@ -33,7 +33,7 @@
         "url": "https://github.com/ExtendRealityLtd"
     },
     "dependencies": {
-        "io.extendreality.zinnia.unity": "2.7.0",
+        "io.extendreality.zinnia.unity": "2.7.1",
         "io.extendreality.tilia.indicators.spatialtargets.unity": "2.0.20"
     },
     "files": [
