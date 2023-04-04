@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v2.0.36...v2.1.0) (2023-04-04)
+
+#### Features
+
+* **Resources:** add multiple render pipeline materials ([3e9a9a7](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/commit/3e9a9a7a4badfbf0a02da408113d707608115b0d))
+  > The prefab now uses the Pipeline Material Applier to provide multiple material types for the main render pipelines to improve compatibility.
+
 ### [2.0.36](https://github.com/ExtendRealityLtd/Tilia.Locomotors.TeleportTargets.Unity/compare/v2.0.35...v2.0.36) (2023-04-04)
 
 #### Miscellaneous Chores
