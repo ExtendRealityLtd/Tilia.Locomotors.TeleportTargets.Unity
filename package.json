@@ -34,7 +34,7 @@
     },
     "dependencies": {
         "io.extendreality.zinnia.unity": "2.13.0",
-        "io.extendreality.tilia.indicators.spatialtargets.unity": "2.2.9"
+        "io.extendreality.tilia.indicators.spatialtargets.unity": "2.2.10"
     },
     "files": [
         "*.md",
